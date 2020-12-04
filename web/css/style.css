@@ -104,7 +104,7 @@ a:hover{ color: #ccc; }
 }
 
 table, th, td {
-  border: 0px;
+  border: 10px;
   border-collapse: collapse;
 }
 
